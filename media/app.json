@@ -1,0 +1,13 @@
+{
+
+  "name": "Zeo-bot",
+
+  "description": "WhatsApp Bot Using WhatsApp Api Library Created By zeocx",
+
+  "repository": "https://github.com/zeocx/zeo-v5",
+
+  "logo": "https://github.com/zeocx/zeo-v5/blob/master/media/logo.jpg",
+
+  "keywords": ["Zeocx", "Bot WhatsApp","Heroku bot"]
+
+}
